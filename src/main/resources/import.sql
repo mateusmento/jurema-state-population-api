@@ -1,5 +1,3 @@
-truncate table state_population;
-
 insert into state_population (id, uf, population) values (1, 'SP', 44396484);
 insert into state_population (id, uf, population) values (2, 'MG', 20869101);
 insert into state_population (id, uf, population) values (3, 'RJ', 16550024);
